@@ -22,7 +22,11 @@ Do you want to know more about that amazing project? Visit https://www.elderberr
 Please, if you like my work, support me on my networks! I'll appreciate it so much :) 
 
 https://www.behance.net/anaislalovi
-https://www.linkedin.com/in/anaislalovi/
-https://www.instagram.com/anaislalovi/
+
+https://www.linkedin.com/in/anaislalovi
+
+https://www.instagram.com/anaislalovi
+
 https://twitter.com/anaislalovi
+
 https://www.facebook.com/anais.lalovi
