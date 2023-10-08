@@ -1,0 +1,590 @@
+@font-face {
+  font-family: 'elderberry-inn-icons';
+  src:
+    url('fonts/elderberry-inn-icons.ttf?31wzsm') format('truetype'),
+    url('fonts/elderberry-inn-icons.woff?31wzsm') format('woff'),
+    url('fonts/elderberry-inn-icons.svg?31wzsm#elderberry-inn-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="eldinn-"], [class*=" eldinn-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'elderberry-inn-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.eldinn-acid_arrow:before {
+  content: "\e900";
+}
+.eldinn-alter_self:before {
+  content: "\e901";
+}
+.eldinn-alter_self2:before {
+  content: "\e902";
+}
+.eldinn-alubias_magicas:before {
+  content: "\e903";
+}
+.eldinn-animal-friendship4:before {
+  content: "\e904";
+}
+.eldinn-animate_dead:before {
+  content: "\e905";
+}
+.eldinn-animate_objects:before {
+  content: "\e906";
+}
+.eldinn-animate_objects2:before {
+  content: "\e907";
+}
+.eldinn-bane:before {
+  content: "\e908";
+}
+.eldinn-bless:before {
+  content: "\e909";
+}
+.eldinn-blur:before {
+  content: "\e90a";
+}
+.eldinn-branding_smite:before {
+  content: "\e90b";
+}
+.eldinn-burning_hands:before {
+  content: "\e90c";
+}
+.eldinn-charm-person:before {
+  content: "\e90d";
+}
+.eldinn-chill_touch:before {
+  content: "\e90e";
+}
+.eldinn-cloudkill:before {
+  content: "\e90f";
+}
+.eldinn-comprehend-languages:before {
+  content: "\e910";
+}
+.eldinn-cone_of_cold:before {
+  content: "\e911";
+}
+.eldinn-conjure_elemental:before {
+  content: "\e912";
+}
+.eldinn-conjure_minor_elemental:before {
+  content: "\e913";
+}
+.eldinn-control_water:before {
+  content: "\e914";
+}
+.eldinn-counterspell:before {
+  content: "\e915";
+}
+.eldinn-cure-wounds:before {
+  content: "\e916";
+}
+.eldinn-dancing-lights:before {
+  content: "\e917";
+}
+.eldinn-darkness:before {
+  content: "\e918";
+}
+.eldinn-detect-magic:before {
+  content: "\e919";
+}
+.eldinn-disguise-self:before {
+  content: "\e91a";
+}
+.eldinn-disintegrate:before {
+  content: "\e91b";
+}
+.eldinn-dispel_evil_and_good:before {
+  content: "\e91c";
+}
+.eldinn-dispel_magic:before {
+  content: "\e91d";
+}
+.eldinn-dominate_monster:before {
+  content: "\e91e";
+}
+.eldinn-dominate_person:before {
+  content: "\e91f";
+}
+.eldinn-eldritch_blast:before {
+  content: "\e920";
+}
+.eldinn-enlarge_reduce:before {
+  content: "\e921";
+}
+.eldinn-entangle:before {
+  content: "\e922";
+}
+.eldinn-faerie-fire:before {
+  content: "\e923";
+}
+.eldinn-faerie-fire2:before {
+  content: "\e924";
+}
+.eldinn-feather-fall:before {
+  content: "\e925";
+}
+.eldinn-find_familiar:before {
+  content: "\e926";
+}
+.eldinn-finger_of_death:before {
+  content: "\e927";
+}
+.eldinn-fireball:before {
+  content: "\e928";
+}
+.eldinn-floating_disk:before {
+  content: "\e929";
+}
+.eldinn-fly:before {
+  content: "\e92a";
+}
+.eldinn-fog_cloud:before {
+  content: "\e92b";
+}
+.eldinn-gaseous_form:before {
+  content: "\e92c";
+}
+.eldinn-gaseous_form2:before {
+  content: "\e92d";
+}
+.eldinn-gentle_repose:before {
+  content: "\e92e";
+}
+.eldinn-gentle_repose2:before {
+  content: "\e92f";
+}
+.eldinn-globe_of_invulnerability:before {
+  content: "\e930";
+}
+.eldinn-guiding_bolt:before {
+  content: "\e931";
+}
+.eldinn-healing-word:before {
+  content: "\e932";
+}
+.eldinn-heat_metal:before {
+  content: "\e933";
+}
+.eldinn-hellish_rebuke:before {
+  content: "\e934";
+}
+.eldinn-heroes_feast:before {
+  content: "\e935";
+}
+.eldinn-heroism:before {
+  content: "\e936";
+}
+.eldinn-hideous-laughter:before {
+  content: "\e937";
+}
+.eldinn-identify:before {
+  content: "\e938";
+}
+.eldinn-illusory-script:before {
+  content: "\e939";
+}
+.eldinn-inflict_wounds:before {
+  content: "\e93a";
+}
+.eldinn-light:before {
+  content: "\e93b";
+}
+.eldinn-longstrider:before {
+  content: "\e93c";
+}
+.eldinn-mage_armor:before {
+  content: "\e93d";
+}
+.eldinn-mage-hand:before {
+  content: "\e93e";
+}
+.eldinn-magic_missile:before {
+  content: "\e93f";
+}
+.eldinn-mass-cure-wounds:before {
+  content: "\e940";
+}
+.eldinn-mass-healing-word:before {
+  content: "\e941";
+}
+.eldinn-Mending:before {
+  content: "\e942";
+}
+.eldinn-message:before {
+  content: "\e943";
+}
+.eldinn-Minor-illusion:before {
+  content: "\e944";
+}
+.eldinn-polymorph:before {
+  content: "\e945";
+}
+.eldinn-power_word_kill:before {
+  content: "\e946";
+}
+.eldinn-power_word_stun:before {
+  content: "\e947";
+}
+.eldinn-prayer_of_healing:before {
+  content: "\e948";
+}
+.eldinn-prestidigitation:before {
+  content: "\e949";
+}
+.eldinn-protection_from_evil_and_good:before {
+  content: "\e94a";
+}
+.eldinn-raise_read:before {
+  content: "\e94b";
+}
+.eldinn-raise_read2:before {
+  content: "\e94c";
+}
+.eldinn-resurrection:before {
+  content: "\e94d";
+}
+.eldinn-resurrection2:before {
+  content: "\e94e";
+}
+.eldinn-revivify:before {
+  content: "\e94f";
+}
+.eldinn-revivify2:before {
+  content: "\e950";
+}
+.eldinn-sacred_flame:before {
+  content: "\e951";
+}
+.eldinn-sanctuary:before {
+  content: "\e952";
+}
+.eldinn-scorching_ray:before {
+  content: "\e953";
+}
+.eldinn-sending:before {
+  content: "\e954";
+}
+.eldinn-shatter:before {
+  content: "\e955";
+}
+.eldinn-shield:before {
+  content: "\e956";
+}
+.eldinn-silent-image:before {
+  content: "\e957";
+}
+.eldinn-sleep:before {
+  content: "\e958";
+}
+.eldinn-speak-with-animals:before {
+  content: "\e959";
+}
+.eldinn-telekinesis:before {
+  content: "\e95a";
+}
+.eldinn-true-strike:before {
+  content: "\e95b";
+}
+.eldinn-vicious_mockery:before {
+  content: "\e95c";
+}
+.eldinn-wall_of_fire:before {
+  content: "\e95d";
+}
+.eldinn-wall_of_force:before {
+  content: "\e95e";
+}
+.eldinn-wall_of_ice:before {
+  content: "\e95f";
+}
+.eldinn-wall_of_stone:before {
+  content: "\e960";
+}
+.eldinn-wall_of_thorns:before {
+  content: "\e961";
+}
+.eldinn-wish:before {
+  content: "\e962";
+}
+.eldinn-barbarian_rage:before {
+  content: "\e963";
+}
+.eldinn-barbarian_reckless_attack:before {
+  content: "\e964";
+}
+.eldinn-bard_inspiration:before {
+  content: "\e965";
+}
+.eldinn-cleric_channel_divinity:before {
+  content: "\e966";
+}
+.eldinn-druid_wild_shape:before {
+  content: "\e967";
+}
+.eldinn-fighter_action_surge:before {
+  content: "\e968";
+}
+.eldinn-fighter_second_wind:before {
+  content: "\e969";
+}
+.eldinn-monk_flurry_of_blows:before {
+  content: "\e96a";
+}
+.eldinn-monk_patient_defense:before {
+  content: "\e96b";
+}
+.eldinn-monk_step_of_the_wind:before {
+  content: "\e96c";
+}
+.eldinn-monk_step_of_the_wind2:before {
+  content: "\e96d";
+}
+.eldinn-monk_step_of_the_wind3:before {
+  content: "\e96e";
+}
+.eldinn-monk_stunning_strike:before {
+  content: "\e96f";
+}
+.eldinn-monk_stunning_strike2:before {
+  content: "\e970";
+}
+.eldinn-paladin_divine_smite:before {
+  content: "\e971";
+}
+.eldinn-paladin_lay_on_hands:before {
+  content: "\e972";
+}
+.eldinn-barbarian:before {
+  content: "\e973";
+}
+.eldinn-barbarian_abilities:before {
+  content: "\e974";
+}
+.eldinn-bard:before {
+  content: "\e975";
+}
+.eldinn-bard_abilities:before {
+  content: "\e976";
+}
+.eldinn-cleric:before {
+  content: "\e977";
+}
+.eldinn-cleric_abilities:before {
+  content: "\e978";
+}
+.eldinn-druid:before {
+  content: "\e979";
+}
+.eldinn-druid_abilities:before {
+  content: "\e97a";
+}
+.eldinn-fighter:before {
+  content: "\e97b";
+}
+.eldinn-fighter_abilities:before {
+  content: "\e97c";
+}
+.eldinn-monk:before {
+  content: "\e97d";
+}
+.eldinn-monk_abilities:before {
+  content: "\e97e";
+}
+.eldinn-paladin:before {
+  content: "\e97f";
+}
+.eldinn-paladin_abilities:before {
+  content: "\e980";
+}
+.eldinn-ranger:before {
+  content: "\e981";
+}
+.eldinn-ranger_abilities:before {
+  content: "\e982";
+}
+.eldinn-rogue:before {
+  content: "\e983";
+}
+.eldinn-rogue_abilities:before {
+  content: "\e984";
+}
+.eldinn-sorcerer:before {
+  content: "\e985";
+}
+.eldinn-sorcerer_abilities:before {
+  content: "\e986";
+}
+.eldinn-warlock:before {
+  content: "\e987";
+}
+.eldinn-warlock_abilities:before {
+  content: "\e988";
+}
+.eldinn-wizard:before {
+  content: "\e989";
+}
+.eldinn-wizard_abilities:before {
+  content: "\e98a";
+}
+.eldinn-blinded:before {
+  content: "\e98b";
+}
+.eldinn-charmed:before {
+  content: "\e98c";
+}
+.eldinn-deaftened:before {
+  content: "\e98d";
+}
+.eldinn-exhaustion1:before {
+  content: "\e98e";
+}
+.eldinn-exhaustion2:before {
+  content: "\e98f";
+}
+.eldinn-exhaustion3:before {
+  content: "\e990";
+}
+.eldinn-exhaustion4:before {
+  content: "\e991";
+}
+.eldinn-exhaustion5:before {
+  content: "\e992";
+}
+.eldinn-exhaustion6:before {
+  content: "\e993";
+}
+.eldinn-frightened:before {
+  content: "\e994";
+}
+.eldinn-grappled:before {
+  content: "\e995";
+}
+.eldinn-incapacitated:before {
+  content: "\e996";
+}
+.eldinn-inconscious:before {
+  content: "\e997";
+}
+.eldinn-invisible:before {
+  content: "\e998";
+}
+.eldinn-paralyzed:before {
+  content: "\e999";
+}
+.eldinn-petrified:before {
+  content: "\e99a";
+}
+.eldinn-poisoned:before {
+  content: "\e99b";
+}
+.eldinn-prone:before {
+  content: "\e99c";
+}
+.eldinn-restrained:before {
+  content: "\e99d";
+}
+.eldinn-stunned:before {
+  content: "\e99e";
+}
+.eldinn-acid:before {
+  content: "\e99f";
+}
+.eldinn-bludgeoning:before {
+  content: "\e9a0";
+}
+.eldinn-cold:before {
+  content: "\e9a1";
+}
+.eldinn-fire:before {
+  content: "\e9a2";
+}
+.eldinn-force:before {
+  content: "\e9a3";
+}
+.eldinn-lightning:before {
+  content: "\e9a4";
+}
+.eldinn-necrotic:before {
+  content: "\e9a5";
+}
+.eldinn-piercing:before {
+  content: "\e9a6";
+}
+.eldinn-poison:before {
+  content: "\e9a7";
+}
+.eldinn-psychic:before {
+  content: "\e9a8";
+}
+.eldinn-radiant:before {
+  content: "\e9a9";
+}
+.eldinn-slashing:before {
+  content: "\e9aa";
+}
+.eldinn-thunder:before {
+  content: "\e9ab";
+}
+.eldinn-libro_juego:before {
+  content: "\e9ac";
+}
+.eldinn-pantalla_DM:before {
+  content: "\e9ad";
+}
+.eldinn-0:before {
+  content: "\e9ae";
+}
+.eldinn-1:before {
+  content: "\e9af";
+}
+.eldinn-2:before {
+  content: "\e9b0";
+}
+.eldinn-3:before {
+  content: "\e9b1";
+}
+.eldinn-4:before {
+  content: "\e9b2";
+}
+.eldinn-5:before {
+  content: "\e9b3";
+}
+.eldinn-6:before {
+  content: "\e9b4";
+}
+.eldinn-7:before {
+  content: "\e9b5";
+}
+.eldinn-8:before {
+  content: "\e9b6";
+}
+.eldinn-9:before {
+  content: "\e9b7";
+}
+.eldinn-movement:before {
+  content: "\e9b8";
+}
+.eldinn-action:before {
+  content: "\e9b9";
+}
+.eldinn-bonus-action:before {
+  content: "\e9ba";
+}
+.eldinn-reaction:before {
+  content: "\e9bb";
+}
